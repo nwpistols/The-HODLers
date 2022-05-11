@@ -21,8 +21,13 @@ HeadsOrTails.sol
 # Contributors
 
 Christopher Miklas
+
 Nguyen Dao
+
 Matthew Rudd
+
 Phil Hills
+
 Summi Khanna
+
 Sean Harrington
