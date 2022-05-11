@@ -4,14 +4,11 @@ Welcome to our game of chance, in this game you get to gamble your Ethereum. Unt
 
 # Libraries
 
-Libraries React native
+Solidity NPM: install -g solc
 
-Solidity npm install -g solc
+Download NPM: curl -qL https://www.npmjs.com/install.sh 
 
-Download NPM
-curl -qL https://www.npmjs.com/install.sh | sh
-
-nmp install -g serve -s build
+SH NPM: install -g serve -s build
 
 # Usage
 
@@ -28,14 +25,14 @@ npm run build
 
 # Contributors
 
-Christopher Miklas
+Christopher Miklas: https://www.linkedin.com/in/christopher-miklas/
 
-Nguyen Dao
+Nguyen Dao: https://www.linkedin.com/in/nguyen-dao-a55669215/
 
-Matthew Rudd
+Matthew Rudd: https://www.linkedin.com/in/matthewp-rudd/
 
-Phil Hills
+Phil Hills: https://www.linkedin.com/in/philhills/
 
-Summi Khanna
+Summi Khanna: https://www.linkedin.com/in/summi-khanna-004a60187/
 
-Sean Harrington
+Sean Harrington: www.linkedin.com/in/sean-harrington16
