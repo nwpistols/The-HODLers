@@ -1,4 +1,3 @@
-# The-HODLers
 # Valhalla 
 
 ## Instructions:
@@ -15,3 +14,6 @@ React native
 ### To Run 
 
 HeadsOrTails.sol
+
+NPM Start 
+NPM Run Build 
