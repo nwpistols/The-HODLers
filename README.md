@@ -8,6 +8,9 @@ Libraries React native
 
 Solidity npm install -g solc
 
+Download NPM
+curl -qL https://www.npmjs.com/install.sh | sh
+
 nmp install -g serve -s build
 
 # Usage
@@ -18,9 +21,9 @@ After downloading all libraries, connect MetaMask Testnet Wallet and run the .so
 
 Open | HeadsOrTails.sol
 
-NPM Start
+npm run start
 
-NPM Run Build
+npm run build
  
 
 # Contributors
