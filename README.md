@@ -12,11 +12,16 @@ nmp install -g serve -s build
 
 # Usage
 
-After downloading all libraries, run the .sol file below and start flipping... May the odds be ever in your favor!
+After downloading all libraries, connect MetaMask Testnet Wallet and run the .sol file below and start flipping... May the odds be ever in your favor!
 
 # Run
 
-HeadsOrTails.sol
+Open | HeadsOrTails.sol
+
+NPM Start
+
+NPM Run Build
+ 
 
 # Contributors
 
