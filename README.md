@@ -1,19 +1,28 @@
-# Valhalla 
+# Valhalla Coin Flip
 
-## Instructions:
+Welcome to our game of chance, in this game you get to gamble your Ethereum. Until. You. Die. Then your account will be shipped out to sea and set on fire. Or, you can raid the house and pillage our plunder in your quest to concor the world. Take a chance to put your hoard at the top of the world!
 
+# Libraries
 
-Solidity
-npm install -g solc
+Libraries React native
+
+Solidity npm install -g solc
 
 nmp install -g serve -s build
 
-Libraries
-React native
+# Usage
 
-### To Run 
+After downloading all libraries, Run the .sol file below and start flipping... May the odds be ever in your favor!
+
+# Run
 
 HeadsOrTails.sol
 
-NPM Start 
-NPM Run Build 
+# Contributors
+
+Christopher Miklas
+Nguyen Dao
+Matthew Rudd
+Phil Hills
+Summi Khanna
+Sean Harrington
