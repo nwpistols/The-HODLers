@@ -1,4 +1,4 @@
-# Valhalla Coin Flip
+# Valhalla Casino
 
 Welcome to our game of chance, in this game you get to gamble your Ethereum. Until. You. Die. Then your account will be shipped out to sea and set on fire. Or, you can raid the house and pillage our plunder in your quest to concor the world. Take a chance to put your hoard at the top of the world!
 
@@ -16,15 +16,15 @@ npm install truffle -g
 
 # Usage
 
-After downloading all libraries, connect MetaMask Testnet Wallet and run the .sol file below and start flipping... May the odds be ever in your favor!
+After downloading all libraries, connect MetaMask Testnet Wallet and run index.html and start flipping... May the odds be ever in your favor!
 
 # Run
 
 Open | index.html
 
-npm run start
+run
 
-npm run build
+ 
  
  
  ![Valhalla Coin Flip](https://user-images.githubusercontent.com/91238235/167965508-703d1f38-0bce-4bb8-924b-d5c1f8bf3d6d.png)
