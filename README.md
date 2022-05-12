@@ -10,13 +10,17 @@ Download NPM: curl -qL https://www.npmjs.com/install.sh
 
 SH NPM: install -g serve -s build
 
+Truffle
+
+npm install truffle -g
+
 # Usage
 
 After downloading all libraries, connect MetaMask Testnet Wallet and run the .sol file below and start flipping... May the odds be ever in your favor!
 
 # Run
 
-Open | HeadsOrTails.sol
+Open | index.html
 
 npm run start
 
