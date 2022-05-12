@@ -16,7 +16,7 @@ npm install truffle -g
 
 # Usage
 
-After downloading all libraries, connect MetaMask Testnet Wallet and run index.html and start flipping... May the odds be ever in your favor!
+After downloading all libraries,run index.html and connect MetaMask Testnet Wallet and start flipping... May the odds be ever in your favor!
 
 # Run
 
